@@ -1,10 +1,10 @@
 {
   "name": "toggle-slash",
   "main": "./lib/toggle-slash",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
 
-  "repository": "https://github.com/atom/toggle-slash",
+  "repository": "https://github.com/skandasoft/toggle-slash",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

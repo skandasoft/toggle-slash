@@ -2,7 +2,7 @@
   "name": "toggle-slash",
   "main": "./lib/toggle-slash",
   "version": "1.0.0",
-  "description": "A short description of your package",
+  "description": "Toggle Slash",
 
   "repository": "https://github.com/skandasoft/toggle-slash",
   "license": "MIT",

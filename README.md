@@ -5,7 +5,7 @@ toggle-slash - Atom.IO
 
 Toggle Backslash to ForwardSlash or DoubleForwardSlash or to ForwardSlash
 
-Toggle Forwardslash to BackSlash or DoubleBackSlash or to BackSlash again 
+Toggle Forwardslash to BackSlash or DoubleBackSlash or to BackSlash again
 
 ## Documentation
 There are two commands available:
@@ -13,8 +13,8 @@ There are two commands available:
 - **Ctrl+Shift+\**     Toggle \(or Double it up)
 
 ##command window
-  **Toggle Slash:Back**
-  **Toggle Slash:Forward**
+- **Toggle Slash:Back**
+- **Toggle Slash:Forward**
 
 ## License
   Copyright (c) 2014 . Licensed under the MIT license.

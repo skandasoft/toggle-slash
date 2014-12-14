@@ -1,5 +1,11 @@
 # toggle-slash package
 
-A short description of your package.
+toggle-slash
+============
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Toggle Slash for Atom.IO
+Toggle Backslash to ForwardSlash or DoubleForwardSlash or to ForwardSlash again using - Ctrl+shift+/
+
+Toggle Forwardslash to BackSlash or DoubleBackSlash or to BackSlash again using - Ctrl+shift+\
+
+![A screenshot of your spankin' package](https://github.com/skandasoft/toggle-slash/blob/master/)

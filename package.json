@@ -1,13 +1,13 @@
 {
   "name": "toggle-slash",
   "main": "./lib/toggle-slash",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Toggle Slash",
 
   "repository": "https://github.com/skandasoft/toggle-slash",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.150.0"
   },
   "dependencies": {
   }

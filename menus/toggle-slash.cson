@@ -1,0 +1,13 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle BackSlash'
+      'command': 'toggle-slash:back'
+    }
+    {
+      'label': 'Toggle ForwardSlash'
+      'command': 'toggle-slash:forward'
+    }
+
+  ]

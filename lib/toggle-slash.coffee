@@ -13,7 +13,6 @@ module.exports =
       r1 = new Range(@p1,@p2)
       text = @editor.getTextInBufferRange(r1)
       if slash is '\\'
-
         if text.indexOf('\\\\') isnt -1
           text = text.replace(/\\\\/g,'\\')
         else if text.indexOf('\\') isnt -1
@@ -29,6 +28,7 @@ module.exports =
         else
           text = text.replace(/\\/g,'/')
       @editor.setTextInBufferRange r1,text
+      @editor.cursors[0].setBufferPosition(cursor)
       obj.stop()
 
   activate: (state) ->

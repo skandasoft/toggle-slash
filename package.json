@@ -1,9 +1,9 @@
 {
   "name": "toggle-slash",
   "main": "./lib/toggle-slash",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Toggle Slash",
-
+  "keywords": ["backslash","forwardslash","toggle" ],
   "repository": "https://github.com/skandasoft/toggle-slash",
   "license": "MIT",
   "engines": {

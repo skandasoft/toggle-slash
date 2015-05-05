@@ -1,7 +1,7 @@
 {
   "name": "toggle-slash",
   "main": "./lib/toggle-slash",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Toggle Slash",
   "keywords": [
     "backslash",

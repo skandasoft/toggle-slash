@@ -8,7 +8,7 @@
     "forwardslash",
     "toggle"
   ],
-  "repository": "https://github.com/skandasoft/toggle-slash",
+  "repository": "git@github.com:skandasoft/toggle-slash.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.150.0"
